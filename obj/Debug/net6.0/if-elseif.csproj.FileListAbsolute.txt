@@ -1,0 +1,15 @@
+C:\Patikacsharp\if-elseif\bin\Debug\net6.0\if-elseif.exe
+C:\Patikacsharp\if-elseif\bin\Debug\net6.0\if-elseif.deps.json
+C:\Patikacsharp\if-elseif\bin\Debug\net6.0\if-elseif.runtimeconfig.json
+C:\Patikacsharp\if-elseif\bin\Debug\net6.0\if-elseif.dll
+C:\Patikacsharp\if-elseif\bin\Debug\net6.0\if-elseif.pdb
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.csproj.AssemblyReference.cache
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.AssemblyInfoInputs.cache
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.AssemblyInfo.cs
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.csproj.CoreCompileInputs.cache
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.dll
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\refint\if-elseif.dll
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.pdb
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\if-elseif.genruntimeconfig.cache
+C:\Patikacsharp\if-elseif\obj\Debug\net6.0\ref\if-elseif.dll
